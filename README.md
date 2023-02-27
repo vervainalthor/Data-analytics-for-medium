@@ -1,2 +1,2 @@
 # Data-analytics-for-medium
-Projects ties to the articles I write
+Projects tied to the articles I write
